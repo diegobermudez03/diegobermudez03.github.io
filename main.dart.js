@@ -85339,7 +85339,7 @@ A.a78.prototype={
 $1(a){return $.nB().cd(t.dY)},
 $S:506}
 A.aoS.prototype={
-$0(){return new A.rm("http://localhost:3000")},
+$0(){return new A.rm("https://quickpass-backend.onrender.com")},
 $S:507}
 A.aoT.prototype={
 $0(){return new A.uG($.dz().cd(t.ZF))},
@@ -85350,7 +85350,7 @@ $.qm()
 return new A.ii(s,B.cA,new A.K8())},
 $S:509}
 A.ap4.prototype={
-$0(){return new A.rl("http://localhost:3000")},
+$0(){return new A.rl("https://quickpass-backend.onrender.com")},
 $S:510}
 A.ap8.prototype={
 $0(){return new A.ry($.dz().cd(t.y_))},
@@ -85388,7 +85388,7 @@ $.qm()
 return new A.ke(r,s,B.cA,new A.y_())},
 $S:519}
 A.aoX.prototype={
-$0(){return new A.qD("http://localhost:3000")},
+$0(){return new A.qD("https://quickpass-backend.onrender.com")},
 $S:520}
 A.aoY.prototype={
 $0(){return new A.rK($.dz().cd(t.tO))},
@@ -85415,7 +85415,7 @@ $.qm()
 return new A.jS(r,s,B.cA,new A.wO())},
 $S:526}
 A.ap3.prototype={
-$0(){return new A.tW("http://localhost:3000")},
+$0(){return new A.tW("https://quickpass-backend.onrender.com")},
 $S:527}
 A.ap5.prototype={
 $0(){return new A.rz($.dz().cd(t.si))},
